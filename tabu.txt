@@ -1,0 +1,469 @@
+fiil: iş-oluş-hareket-eylem-sözcük
+uyak: şiir-dize-benzerlik-kafiye-ses
+sözlük: anlam-kelime-sözcük-açıklama-lügat
+kuşbakışı: harita-tepe-yukarı-görmek-kroki
+okka: ağırlık-ölçü-birim-kilo-tartı
+kök: sözcük-ek-yapım-çekim-kelime
+şiir: şair-mısra-dize-kıta-dörtlük
+fabl: hayvan-la fontaine-masal-insan-Hikaye
+öykü: hikaye-kahraman-yazar-yer-kitap
+mecaz: kelime-sözcük-gerçek anlam-yan anlam-terim anlam
+özne: cümle-iş-kişi-varlık-öge
+masal: olağanüstü-kahraman-yazar-öykü-kitap
+fay: hat-deprem-kırılmak-sarsılmak-istanbul
+öneri: teklif-çözüm-yol-cümle-iyi
+ikilem: kararsız-cümle-durum-acaba-tercih
+varsayım: olmamış-farzetmek-cümle-türetmek-zannetmek
+koşul: şart-neden-sebep-eğer-sonuç
+avize: lamba-kristal-tavan-ışık-aydınlık
+koordinat: yer-enlem-boylam-düzlem-kartezyen
+baskül: tartı-kilo-ağır-ölçü-hafif
+harabe: yıkık-eski-tarihi-ev-moloz
+çaylak: acemi-deneyim-tecrübe-usta-yeni
+cemre: düşmek-hava-toprak-su-bahar
+halüsinasyon: hayal-gerçek-görmek-illüzyon-serap
+şamdan: mum-ışık-aydınlık-yakmak-süs
+tırabzan: merdiven-korkuluk-inmek-çıkmak-bina
+korniş: tavan-perde-asmak-pencere-cam
+nihale: altlık-tencere-çaydanlık-sıcak-tezgah
+duy: tavan-lamba-ışık-işitmek-kulak
+pişmanlık: hata-üzülmek-yanlış-keşke-son
+satranç: şah mat-at-piyon-vezir-fil
+paraşüt: uçak-atlamak-uçmak-balon-hava
+gökkuşağı: renk-hava-güneş-yağmur-ışık
+dost: güven-samimi-arkadaş-dürüst-ahbab
+empati: kendi-koymak-hissetmek-düşünme-başkası
+hoşgörü: mevlana-anlayış-empati-duygu-iyi
+bonkör: eli açık-cömert-para-gönlü zengin-harcamak
+heybetli: yüce-dağ-büyük-yüksek-iyi
+fodul: kel-fadıl-kısa-bodur-saç
+kestane: meyve-çizdirmek-kış-yiyecek-kebap
+bok atmak: aşşağılamak-söylemek-fırlatmak-iftira atmak-suçlamak
+lüle: kıvırcık-saç-yemek-pilav-düz
+ketçap: papates-domates sosu-hamburger-mayonez-hardal
+ajans: reklam-radyo-manken-haber-televizyon
+steteskop: ses-doktor-kalp-dinlemek-hasta
+büyük iskender: antik yunan-kral-helenistik-makedonya-imparator
+mücevher: altın-kadın-takı-kolye-pahalı
+tedavül: geçerlilik-para-dolaşmak-kalkmak-sürüm
+heyelan: yağmur-toprak kayması-ağaç-doğal afet-çamur
+maden: çıkarmak-yeraltı-kömür-kaynak-altın
+testesteron: testis-hormon-cinsel-erkek-östrojen
+aranjman: çiçek-düzenleme-şarkı-iskender Paydaş-kayıt
+gözlük: çerçeve-göz-güneş-cam-görmek
+akrep: zaman-burç-yelkovan-saat-ibre
+sineye çekmek: razı olmak-kabullenmek-tarafsız olmak-sinmek-sessiz kalkmak
+reçete: eczane-doktor-hastane-ilaç-hasta
+aşçı: mutfak-yemek-önlük-meslek-oktay Usta
+çorap: ince-ayak-ayakkabı-üşümek-yazlık
+balık: deniz-fırın-hamsi-olta-rakı
+tavla: mars-zar-yenmek-oyun-pul
+altın: sarraf-takmak-kuyumcu-değerli-gümüş
+avrupa yakası: gülse birsel-burhan-atv-anadolu-istanbul
+telefon: alo-ahize-graham bell-tuş-numara
+federasyon: birleşme-kuruluş-örgüt-futbol-takım
+panik atak: telaş-ölüm korkusu-depresyon-psikolojik-hastalık
+sirkülasyon: hava-dolaşım-devir daim-gazete-tiraj
+mesafe: katetmek-uzaklık-ırak-ara-serdar ortaç
+fermuar: kapatmak-giymek-pantolon-kıyafet-kot
+sokrates: bilge-felsefe-antik yunan-filozof-akım
+model: defile-araba-foto-manken-top
+baterist: müzik-çalmak-baget-vurmak-davul
+kerevet: taht-murat-oturmak-ermek-sedir
+brifing: asker-vermek-özet-bilgilendirmek-emir
+emzik: bebek-ağlamak-naylon-meme-emmek
+yastık: uyku-yumuşak-yorgan-tüy-yatak
+panda: oyuncak-dondurma-ayı-beyaz-nesli tükenmek
+platform: peron-düzenek-işletim sistemi-yüksek-basamak
+androjen: erkek-testesteron-östrojen-hormon-testis
+beyti: florya-kebap-yemek-iskender-mahlas
+paranoyak: şüphe-hastalık-tehlike-kuşku-psikoloji
+buji: kıvılcım-araba-meme-motor-yanma
+maymun: evrim-hayvan-çarli-muz-goril
+okey: taş-zar-4 kişi-ıstaka-oyun
+düğün: yüzük-gelin-misafir-damat-evlenmek
+şer: şeytan-hayır-fenalık-kötü-korumak
+liberal: solcu-özgürlükçü-demokrat-parti-siyasi
+otel: oda-tatil-resepsiyon-havuz-pansiyon
+yardım: ilk-bağış-kızılay-destek-yapmak
+tur: düzenlemek-seyahat-atmak-dolaşma-atlamak
+müsteşar: memur-makam-bakan-derece-elçilik
+adidas: marka-spor-ayakkabı-giymek-nike
+masa: bilgisayar-kalem-çekmece-dosya-yemek
+korniş: cam-perde-asmak-tül-tavan
+banka: faiz-para-hesap-müşteri-vezne
+nevresim: takım-yatak-kılıf-yorgan-örtü
+tesbih: simge-çekmek-tane-ibadet-külhanbey
+bill gates: zengin-windows-para-bilgisayar-microsoft
+banka: çek-müşteri-hesap-para-kredi kartı
+dejenerasyon: yıpranma-zarar-yozlaşma-bozulma-protein
+oscar: tören-ödül-sinema-holywood-nobel
+kalem: tükenmez-silgi-dolma-yazmak-kağıt
+kıvanç tatlıtuğ: azra akın-behlül-aşkı memnu-kuzey güney-bihter
+peçe: yüz-örtü-gizlemek-kadın-örtmek
+kayıt: video-kaydetmek-şart-geçmek-ses
+düşes: krallık-dük-soylu-ünvan-keira knightley
+üniter: yapı-devlet-federal-bağımsız-tek
+vurgun: basınç-dalgıç-felç-deniz-derin
+köpük: banyo-deniz-türk kahvesi-üst-sabun
+aseton: kadın-oje-sürmek-silmek-alkol
+kafatası: kızılmaske-beyin-korumak-kemik-baş
+değirmen: yel-tahıl-su-öğütmek-çark
+kurt cobain: müzisyen-nirvana-intihar-grunge-solist
+mehmet akif ersoy: veteriner-istiklal marşı-şair-safahat-burdur
+doğum: ebe-ölüm-hamile-yıl-bebek
+diz: kapak-bacak-kemik-eklem-kaymak
+paul auster: postmodern-yazar-amerikan-şair-başbakan
+cahit sıktı tarancı: şair-yaş otuzbeş-memleket isterim-şiir-yazmak
+peyami safa: yazar-şair-dokuzuncu hariciye koğuşu-serveti fünun-roman
+a vitamini: organik-göz-balık-havuç-yağ
+menopoz: kadın-girmek-hormon-yumurtlamak-dönem
+yasemin: pencere-çiçek-isim-koku-yalçın
+kasvet: kaygı-iç sıkıntısı-çökmek-huzursuzluk-basmak
+uyku tulumu: fermuar-kamp-yatmak-çadır-girmek
+van gogh: kesmek-ressam-şizofren-kulak-hollanda
+türk medeni kanunu: hak-atatürk-hüküm-isviçre-düzenlemek
+folik asit: b12-b-vitamin-kansızlık-folat
+laptop: mobil-dizüstü-notebook-bilgisayar-cihaz
+ataerkil: toplum-erkek-sıfat-egemen-ana
+kızılay: dağıtmak-ankara-kan-yardım-kurum
+simit: çıtır-gevrek-susam-yuvarlak-ayran
+mat: yenmek-şah-etmek-satranç-uyku tulumu
+züğürt: çene-para-teselli-fakir-zengin
+tüzük: yönetmelik-kural-bakanlık-kanun-mevzuat
+kadavra: tıp-insan-ölmek-vücut-incelemek
+bungee jumping: tehlikeli-yüksek-dalış-atlamak-ip
+anneler günü: kadın-mayıs-cennet-baba-hediye
+alüminyum: doğrama-metal-iletken-Al-kimya
+anakonda: öldürmek-yılan-sıkmak-film-kobra
+duvak: tül-gelin-yüz-örtmek-damat
+tavuk şiş: ızgara-yemek-örgü-çubuk-ett
+kurbağa prens: dönüşmek-masal-öpmek-prenses-hayvan
+sendrom: pazartesi-belirti-semptom-bulgu-sıkıntı
+poyraz: liman-rüzgar-akdeniz-kuzey doğu-deniz
+3D: teknoloji-boyut-film-oyun-gözlük
+charlie chaplin: palyaço-oyuncu-şarlo-ingiliz-komedi
+sevgililer günü: kutlamak-14 şubat-arkadaş-hediye-özel
+borsa: piyasa-yatırım-imkb-ekonomi-endeks
+how ı met your mother: yabancı-dizi-barney-ted-sit com
+zekat: dağıtmak-vermek-şart-islam-yardım
+imla: hata-kural-dil bilgisi-yazım-terim
+taviz: ivaz-vermek-feragat-ödün-uzlaşmak
+fuar: izmir-sergi-tivari-panayır-alan
+periskop: alet-denizaltı-ayna-optik-tank
+komedyen: gülmek-ata demirer-cem yılmaz-tolga çevik-espri
+evlilik cüzdanı: vermek-nikah-damat-gelin-nüfus
+kadınbudu: içli-köfte-pirinç-yemek-kıyma
+can yücel: bağlanmayacaksın-şair-argo-hasan ali yücel-leman
+pimpirik: kuşku-evham-titizlik-işkillenmek-gereksiz
+fobi: tehdit-korku-hobi-kaçınmak-psikolojik
+bomba: asker-patlamak-savaş-haber-imha
+Şatafat: görkem-gösterişli-ihtişam-çarpıcı
+Nelson Mandela: siyahi-Afrika-tutuklu-başkan-lider
+Uzak Durmak: yaklaşmamak-istememek-mesafe-koymak-yakın
+Ejder: yılan-büyük-timsah-ateş-Harry
+Deney: kimya-laboratuvar-fare-bilim-tüp
+Püskül: saçak-ip-süs-fes-Mısır
+Embesil: zeka geriliği-aptal-ahmak-salak-moron
+Beddua: kötülük-tutmak-almak-etmek-bela
+Dönme Dolap: lunapark-yüksek-çocuk-eğlence-oturmak
+Metres: karıkoca-evli-aldatmak-yasak-ilişki
+Fax: çekmek-göndermek-yazı-kağıt-fotokopi
+Gazi: savaş-yaralanmak-şehit-İstiklal Madalyası-Atatürk
+Vektör: yön-fizik-skaler-çizmek-doğru
+Sirkülasyon: dolaşım-gazete-devir daim-hava-tiraj
+Hasıraltı etmek: saklamak-gizleme-korumak-yok etmek-örtbas
+Yardım: bağış-destek-Kızılay-ilk-yapmak
+Kuşak: bel-sarmak-bağ-küre-siyah
+RTÜ: yasaklamak-radyo-kurul-televizyon-denetlemek
+kehanet: his-bilme-kahin-tahmin-sezgi
+masumiyet: zeki demirkubuz-saf-suçsuz-temiz-orhan pamuk
+dedikodu: yapmak-konuşmak-gıybet-kadın-arka
+pinhani: hele bir gel-grup-müzik-kavak yelleri-rock
+kokteyl: toplantı-karışım-parti-içki-barmen
+hassasiyet: terazi-duyarlılık-diş-göstermek-duygu
+blues: ritim-müzik-robert johnson-amerika-caz
+abaküs: boncuk-sayı-hesap-saymak-ilkokul
+sindirim sistemi: mide-bağırsak-parçalamak-karaciğer-emilim
+şadırvan: havuz-cami-kubbe-abdest-avlu
+soğan: ağız-koku-patates-sebze-ağlamak
+afife jale: kadın-tiyatro-müslüman-sahne-ilk
+diş macunu: yemek-fırçalamak-temizlemek-ağız-tartar
+mp3: OGG-bilgisayar-format-müzik-dinlemek
+kuş dili: biberiye-konuşmak-dizi-şifreli-hayvan
+nikola tesla: Edison-bilim adamı-elektrik-fizikçi-alternatif akım
+kadro: grup-eleman-memur-sözleşmeli-kamu
+new york: timesquare-amerika-özgürlük-eyalet-manhattan
+lokum: kuş-tatlı-bayram-gül-yemek
+tüfek: pompalı-ateş-av-silah-öldürmek
+ödünç vermek: istemek-eşya-geri almak-geri vermek-borç
+stüdyo: çekim-daire-program-televizyon-kayıt
+frizbi: geri-oyun-dönmek-atmak-fırlatmak
+mehmet günsür: aşk tesadüfleri sever-oyuncu-italya-o şimdi asker-hamam
+ferman: tuğra-buyruk-emir-osmanlı-manga
+maytap: fişek-patlatmak-yakmak-geçmek-pasta
+girişimci: fikir-üretim-iş adamı-risk-şirket
+molotof kokteyli: patlatmak-bomba-atmak-yangın-asit
+yapay zeka: robot-bilgisayar-doğal-alan turning-oyun
+tümevarım: ispat-özel-tümdengelim-genel-matematik
+süveyş kanalı: mısır-akdeniz-yapay-kızıldeniz-bağlamak
+günah: dini-sevap-işlemek-cehennem-tövbe
+fahriye abla: güzel-şiir-müjde ar-ahmet muhip dıranas-komşu
+peruk: yapay-saç-takma-kadın-doğal
+savarona: deniz-atatürk-büyük-yat-cumhurbaşkanlığı
+radyasyon: bozulma-enerji-dalga-tehlike-yayılım
+farenjit: toz-hastalık-iltihap-boğaz-sprey
+işlemci: bilgisayar-mikro-çip-intel-cpu
+fransız ihtilali: avrupa-milliyetçilik-devrim-akım-monarşi
+demiryolu: taşıma-ray-ulaşım-tren-vagon
+konçerto: solo-beste-orkestra-çalgı-çalmak
+sabır taşı: dert-çatlamak-sıkıntı-katlanmak-dayanmak
+woody allen: komedi-sinema-yönetmen-hollywood-midnight in paris
+ayyaş: içmek-alkol-ayılmak-sarhoş-içki
+poliklinik: muayene-sağlık-ayakta-hastane-tedavi
+haciz: banka-gelmek-borç-ödemek-eşya
+buğu: cam-yoğunlaşma-sıcak-buhar-ayna
+soykırım: yıkım-yok etmek-ortadan kaldırmak-ermeni-şiddet
+alternatif akım: fizik-nikola tesla-doğru-değişken-elektrik
+stajer: çalışma-uygulama-hazırlık-öğrenme-öğrenci
+kazım koyuncu: şarkıcı-karadeniz-rock-gülbeyaz-hırçın
+milenyum: takvim-yıl-bin-2000'ler-zaman
+silkelemek: sarsmak-sallamak-düşürmek-halı--dut
+güneş tutulması: kararmak-ay-ara-gölge-dünya
+atom bombası: çekirdek-hiroşima-patlamak-nagazaki-nükleer
+truva atı: virüs-tahta-çanakkale-heykel-program
+cazibe: dizi-çekici-yahşi-alım-atv
+çelik çomak: eski-çocuk-oynamak-çubuk-sopa
+tecrübe: ders-deneyim-eleman-öğrenme-konuşmak
+prova: yapmak-hazırlık-oyun-deneme-genel
+megabayt: hafıza-bayt-boyut-bellek-internet
+demo: yazılım-deneme-versiyon-sürüm-şarkı
+boney M: pop-grup-disko-70'ler-müzik
+spor spikeri: yorumlamak-futbol-anlatmak-maç-haber
+protein: organik-vitamin-amino asit-karbonhidrat-kas
+travma: ruhsal-beyin-bilinç-sarsıntı-yaralanmak
+saksı: toprak-çiçek-dikmek-ekmek-erol büyükburç
+kemoterapi: saç dökülmesi-kanser-ilaç-redavi-kimyasal
+suikast: uğur mumcu-kurban-öldürmek-kasıt-kennedy
+esnemek: açmak-uyumak-ağız-yorgunluk-ısınmak
+zombi: yatarık-ölü-ceset-hortlak-oyun
+inziva: çekilmek-içe kapanmak-kaçmak-uzaklaşmak-kolera
+intikam: kötülük-almak-karşılık-soğuk-yemek
+mikrofon: konuşmak-hoparlör-karaoke-ses-el
+muhtaç: ihtiyaç-yoksul-yardım-fakir-aciz
+oje sürmek: boya-tırnak-kadın-parmak-makyaj
+albeni: ülker-çekici-alım-cazibe-çikolata
+kösele: sert-ayakkabı-taban-deri-kalın
+çay: demlemek-meşrubat-içmek-karadeniz
+plazma: madde-TV-hal-LCD-gaz
+global: toptan-küresel-dünya-evrensel-genel
+alyans: altın-yüzük-parmak-evlilik-simge
+palet: yüzgeç-renk-boya-ressam-yüzmek
+kaset: kayıt-çalar-video-müzik-sarmak
+demeç: yaymak-vermek-beyanat-açıklama-yayınlamak
+tartar: macun-diş taşı-fırçalamak-kir-tabaka
+tongaya basmak: yanılmak-tuzak-düşmek-hile-kanmak
+baraj: keban-su-biriktirmek-engellemek-hidroelektrik
+darp: çarpmak-vurmak-etmek-dövmek-şiddet
+çuvallamak: bozmak-batırmak-berbat olmak-başarısız olmak-kalmak
+akustik: titreşim-gitar-ses-müzik-yankı
+yılmaz güney: yol-çirkin kral-yönetmek-oyuncu-atıf yılmaz
+hokkabaz: mazhar alanson-film-cem yılmaz-sinema-sihirbaz
+gökkuşağı: kırılma-yağmur-renk-hava-beyaz
+süper market: tüketim-alışveriş-satın almak-migros-mal
+hacıyatmaz: eğilmek-oyuncak-sırt-devrilmek-ata demirer
+topaç: dönmek-atmak-çevirmek-fırlatmak-oyuncak
+ejderha dövmeli kız: david fincher-milennium-film-stieg larsson-üçleme
+rimel: ağlamak-kirpik-akmak-makyaj-sürmek
+helikopter: hava-uçmak-uçak-pervane-dönmek
+balon: helyum-hava-çocuk-şişirmek-uçan
+mesajlaşma: GSM-cep telefonu-göndermek-SMS-yazmak
+boşluk: doldurmak-düşmek-eksiklik-dolu-yer
+genleşme: sıcaklık-esnemek-büyümek-ısı-değişmek
+folikül: hücre-kese-yumurtalık-saç-kadın
+allık: fırça-yanak-kırmızı-sürmek-kozmetik
+trip: kız-atmak-yapmak-tavır-küsmek
+yoyo: ip-oyuncak-atmak-çocuk-geri gelmek
+analog: frekans-sinyal-sürekli-elektrik-dijital
+kafeinsiz kahve: çay-kakao-bağımlılık-uyarıcı-zararlı
+sirke: bit-keskin-salata-üzüm-elma
+keyif: alkol-rahatlık-düşkün-zevk-vermek
+hulahop: döndürmek-çevirmek-çember-bel-halka
+mini etek: göstermek-kadın-giymek-bacak-kısa
+davetsiz: gelmek-çağırmak-gitmek-misafir-film
+bitlenmek: saç-kaşıntı-ayıklamak-pire-şampuan
+beşik: uyumak-bebek-yatmak-sallamak-rüya
+altın günü: dedikodu-kadın-para-toplanmak-gümüş
+meryem ana: hristiyan-kilise-bakire-isa-efes
+kiler: şarap-ambar-saklamak-depo-karanlık
+bodur: şişman-kısa-tıknaz-maki-küçük
+önyargı: objektif-hüküm-taraf-peşin-karşı
+münazara: görüş-tartışma-fikir-savunma-karşıt
+kızgın: demir-sıcak-ısınmak-yağ-öfkeli
+kabarmak: şişmek-kek-toz-maya-büyümek
+tapınak: kutsal-şövalye-tanrı-artemis-dua etmek
+taraf tutmak: çıkmak-desteklemek-aitlik-yan çıkmak-olmak
+peştemal: sarmak-hamam-örtmek-bez-havlu
+çaylak: deneyimsiz-toy-tecrübesiz-acemi-kuş
+efes: antik-izmir-nefes-bira-turistik
+poz vermek: hal-fotoğraf-resim-durum-model
+turşucu: adile naşit-satmak-neşeli günler-yapmak-salatalık
+kemalpaşa: mustafa-tatlı-izmir-atatürk-ilçe
+çingene: neşeli-roman-sulukule-dans etmek-insan
+ipek böceği: iplik-koza-tırtıl-kumaş-yol
+kuru temizleme: kirlenmek-leke-ceket-giysi-götürmek
+viagra: hap-erkek-enerji-ilaç-kullanmak
+kangren olmak: kesmek-ölmek-kan-doku-geçmek
+allah vergisi: doğuştan-güzellik-tanrı-yetenek-yaradılıştan
+bulgur pilavı: buğday-pirinç-kısır-yemek-tahıl
+sibirya kurdu: cins-husky-köpek-soğuk-hayvan
+gonca: hal-gül-çiçek-tomurcuk-isim
+pire: yorgan-bit-böcek-kaşınmak-haşarat
+kuluçkaya yatmak: oturmak-tavuk-kuş-yumurta-ısıtmak
+flört etmek: sevmek-ilişki-erkek-kadın-bakışmak
+yün: kumaş-ip-giysi-koyun-elyaf
+tost makinası: elektrik-kaşar-sucuk-ekmek-kahvaltı
+promosyon: ürün-indirim-hediye-satış-mağaza
+peri bacaları: kaya-kapadokya-sihirli-nevşehir-turistik
+eskrim: yapmak-spor-silah-kılıç-stratejik
+mısır: yemek-piramit-nil-ülke-patlamış
+artistik patinaj: figür-paten-buz-kaymak-spor
+iç güveyi: aile-damat-birlikte-yaşamak-hallice
+mala: vurmak-harç-sıva-duvar-araç
+pelikan: hayvan-gaga-kuş-kese-silgi
+berlin duvarı: doğu-almanya-ayırmak-bölünmek-batı
+descartes: fransız-bilimadamı-matematikçi-filozof-kartezyan çarpım
+halletmek: becermek-bitirmek-çözmek-tamamlamak-iş
+emlak vergisi: belediye-ev-konut-ödemek-çöp
+imha etmek: engellemek-yok etmek-kaldırmak-bomba-uzman
+havai: gamsız-fişek-dertsiz-uçarı-mavi
+kantar: topuz-tartmak-ölçmek-ağırlık-nuri
+düzmece: taklit-yalan-sallama-uydurma-sahte
+ofis: patron-şirket-çalışmak-iş yeri-oda
+ucuzluk: ürün-indirim-fiyat-alışveriş-davranış
+kopça: birleştirmek-sütyen-takmak-askı-agraf
+devekuşu: uçmak-kum-hızlı-gömmek-kabare
+araklamak: hırsızlık-çalmak-aşırmak-yürütmek-götürmek
+enerji: kütle-potansiyel-kuvvet-kinetik-vermek
+cirit: ata-atma-at-oyun-spor
+bakiye: banka-kalan-nakit-para-hesap
+iç çamaşırı: kilot-giymek-atlet-alt-fanila
+kav: sürtmek-kibrit-yanmak-uç-kısım
+kazazede: geçirmek-yaralı-yaralanmak-çarpmak-uğramak
+yumuşatıcı: parfüm-çamaşır-koku-yıkamak-yumoş
+sifon: çekmek-su-tuvalet-basmak
+becermek: bozmak-üstesinden gelmek-yapabilmek-çözmek-halletmek
+kivi: ekşi-meyve-yeşil-tüylü-karadeniz
+kırıntı: ekmek-parçalanmak-parça-ufak-nimet
+bilardo masası: delik-oynamak-ıstaka-top-vurmak
+tıpa: şişe-mantar-tıkaç-kapatmak-tapa
+şarj aleti: adaptör-batarya-telefon-doldurmak-bitmek
+kalkan: savaş-korumak-zırh-savunmak-balık
+resepsiyon: lobi-otel-rezervasyon-beklemek-görevli
+kırıtmak: yürümek-cilve--şımarmak-davranmak-beğendirmek
+keşkül: fıstık-tatlı-sütlü-yemek-çanak
+nüfus sayımı: tespit etmek-toplanmak-sayı-ülke-genel
+bürokrasi: yönetici-kural-kamu-işlem-topluluk
+infilak etmek: yok olmak-patlamak-yanmak-parçalanmak
+mavi tur: tekne-deniz-yolculuk-yat-gezmek
+yaralamak: incitmek-zarar vermek-silah-kesici alet-kırmak
+kadife: bez-kumaş-yumuşak-parlak-kese
+tımarlı sipahi: köylü-asker-osmanlı-at-paralı
+karizma: çizdirmek-etkileyici-Tolga Ballı-büyüleyici-kişilik
+tamirat: bozulmak-onarmak-alet-düzeltmek-yapmak
+dikizlemek: ayna-gözlemek-takip etmek-izlemek-bakmak
+kapak kızı: ilk-dergi-kadın-sayfa-poz
+depresyon: ruh-bunalım-girmek-çöküntü-sinir
+mahrem: elif şafak-gizli-sırdaş-saklı-roman
+lobi: beklemek-otel-koltuk-giriş-resepsiyon
+tercih: üstün-seçim-yeğleme-yapmak-YKS
+odak: toplanmak-optik-kaynak-ışık-mihrak
+ganyan: bilet-bayi-yarış-at-oynamak
+feryat: etmek-haykırış-figan-çığlık-bağırmak
+klarnet: metal-üfleme-perde-çalgı-hüsnü şenlendirici
+başlık parası: kemal sunal-damat-para-ödemek-gelin
+semazen: el-derviş-mevlana-dönmek-semaver
+sünger bob: karakter-çizgi-dizi-film-çocuk
+şıpsevdi: sevgi-maymun iştahlı-sevmek-aşık olmak-sakız
+nostalji: yeşilçam-geçmiş-yapmak-eski-albüm
+dublör: tiyatro-oyuncu-sinema-yedek-oynama
+püskül: fes-saçak-süs-ip-mısır
+transparan: giymek-şeffaf-kadın-saydam-açık
+travesti: kılık-erkek-transeksüel-kadın-girmek
+mızıkçı: oynamak-oyunbozan-kabul etmek-darılmak-küsmek
+yazıhane: ofis-büro-oda-iş yeri-çalışmak
+bira göbeği: karın-efes-şişmek-içmek-mide
+imalathane: iş yeri-üretim-yapım-atölye-mobilya
+dobra dobra: tartışmak-müge anlı-kanal D-program-açık sözlü
+Selülit: bacak-kadın-cilt-yağ-portakal
+Norm: kural-yerleşmiş-ilke-yasa-düzen
+Alt: üst-yer-taban-derece-sınıf
+bone: Yonca Evcimik-satın almak-üye-dergi-gazete
+Tezgah: kurmak-masa-mutfak-satıcı-büfe
+Temas: fiziksel-değme-dokunma-münasebet-buluşmak
+Efsane: hayali-yaradılış-öykü-abartmak-söylence
+İmla: kural-yazım-dil bilgisi-hata-terim
+Sakal: kıl-yüz-tıraş-kesmek-top
+Losyon: tıraş-kolonya-parfüm-koku-berber
+Barbar: kaba-ilkel-kırıcı-uygarlaşma-akın
+Fabl: masal-hayvan-hikaye-öykü-ders
+Abdesthane: tuvalet-wc-hela-yüznumara-almak
+Haki: renk-yeşil-kahverengi-çalmak-kaçmak
+Latin Amerika: güney-kıta-Brezilya-ülke-Arjantin
+Define: harita-para-altın-ali-baba
+Taramak: saç-araştırmak-derlemek-ateşlemek-ayıklamak
+İpucu: iz-emare-vermek-dedektif-sır
+Altın: takmak-değerli-kuyumcu-sarraf-çeyrek
+Açısal Hız: fizik-vektörel-hareket-dairesel-taramak
+Süzmek: su-ayırmak-sıvı-makarna-katı
+Kabakulak: hastalık-iltihap-şişmek-bez-tükürük
+Güler: Sabanci-Sakıp-Sabancı-iş-kadını
+Küf: ekmek-yeşil-mantar-bakteri-kurt
+Anatomi: vücut-sistem-incelemek-organ-diş
+Karl Marx: sosyalizm-komünizm-felsefe-manifesto-kapital
+Halay Çekmek: düğün-oynamak-daire-mendil-baş
+Fotokopi: kopya-makine-fax-taramak-kırtasiye
+Barkod: ürün-fiyat-imza-çizgi-alt
+Odak: optik-ışık-kaynak-toplanmak-mihrak –
+Makas: kumaş-kesmek-kağıt-nişan-terzi
+Eli Ağır: yavaş-yapmak-çabuk-iş bitirici
+Kantin: okul-tost-kafeterya-öğrenci-yemek
+İma Etmek: anlam-iz-durum-davranış-alamet
+Mühimmat: depo-savaş-cephane-ordu-silah
+Hıçkırık: ses-tutmak-diyafram-su-nefes
+Buz Devri: eski çağ-soğuk-erimek-kar-çizgi film
+Salsa: sos-dans-latin-İspanyol-parti
+Boncuk: kolye-takı-renkli-küçük-yuvarlak
+Travesti: erkek-kadın-transseksüel-kılık-girmek
+Tekila: olmega-tuz-limon-Meksika-shot
+Daktilo: yazmak-harf-kağıt-tuş-stilo
+Telsiz: telefon-konuşmak-polis-iletişim-basmak
+Sandal: motor-deniz-kürek-sefa-balıkçı
+Abluka: kuşatma-sarmak-çevrelemek-almak-kaplamak
+Haç: Hristiyanlık-Çağla Şikel-artı işareti-İsa-Çarmıh
+Asit: mavi-kırmızı-turnusol-baz-mide
+Kuş Bakışı: yüksek-genel-hayvan-görmek-alan
+Hatır: gönül-kalp-hafıza-zihin-kırmak
+İmrenmek: kıskanmak-gıpta etmek-özenmek-canı çekmek-istemek
+Dumur: körelmek-aptallaşmak-şok olmak-şaşırmak-şaşkına dönmek
+Kahır: mahvetme-perişan-ezme-çekmek-etmek
+Köşk: bahçe-ev-süslü-kasir-yapı
+Alyans: evlilik-yüzük-karıkoca-parmak-takmak
+İktidar: otorite-muhalefet-yetki-kuvvet-parti
+Çıban: irin-deri-birikmek-vücut-çıkmak
+Arap: siyah-Afrika-fellah-sabun-bacı
+66  Kalsiyum: kemik-süt-peynir-yoğurt-diş
+Çayır: otlamak-inek-yeşil-çimen-piknik
+Klima: sıcak-duvar-yaz-soba-kalorifer
+Balina: deniz su-memeli-hayvan-yunus
+Olumsuz: negatif-zararlı-uygun-yapıcı-yararlı
+Misyoner: din-yaymak-Hristiyan-adamak-düşünce
+Sincap: hayvan-kemirmek-ağaç-fındık-kokarca
+Ramazan Bayramı: şeker-kutlamak-Kurban Bayramı-tatil-dini
+Anne: çocuk-baba-seven-koruyan-dünyada bir tane
+Farenjit: hastalık-boğaz-iltihap-toz-sprey
+Arsa: yer-alan -yapı-tarla-yapmak
+Saç: fön-kuaför berber-kadın erkek-kestirmek-boyatmak
+Hare: parlak-çizgi-dalga-sert-kumaş
+Bilinç: şuur-tanıma-bilgi-görüş-temel
+Kalabalık: insan-çok-topluluk-kargaşa-aşırı
