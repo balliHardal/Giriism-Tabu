@@ -441,6 +441,6 @@ async def sıfırla(ctx):
     description="Veriler sıfırlandı ..")
     await ctx.send(embed=emb)
 
-client.run("ODQ1MDMwMTI3Mjc1MzQzODcy.YKbBog.ogXIfdk9gEGpgWAr_zdfXIIDRrM")
+client.run("YOUR_DİSCORD_BOT_TOKEN")
 
 
