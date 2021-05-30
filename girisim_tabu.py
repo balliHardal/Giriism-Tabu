@@ -8,9 +8,8 @@ from discord.utils import get
 from discord.ext.commands.bot import when_mentioned
 from random import choice
 import asyncio
-from os import chdir
 
-chdir("C:\\Users\\LENOVO\\Desktop\\Python\\Discord\\ITU_GIRISIM\\girisim_tabu")
+
 intents = discord.Intents(messages=True, guilds=True, reactions=True, members=True, presences=True)
 client = commands.Bot(command_prefix="-t ", intents=intents, help_command=None)
 
